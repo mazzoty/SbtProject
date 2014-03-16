@@ -22,6 +22,11 @@ case class Person (name:String,surname:String){
   def pop(){
     messageQueue.remove(0)
   }
+  
+  
+  def removeAll(){
+    
+  }
 
 
 }
