@@ -27,6 +27,11 @@ case class Person (name:String,surname:String){
   def removeAll(){
     
   }
+  
+  
+  def anotherDefinition(name:String)={
+    "aa"
+  }
 
 
 }
